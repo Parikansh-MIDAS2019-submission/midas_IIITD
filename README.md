@@ -1,5 +1,6 @@
-# MIDAS_IIITD 2019 Summer Intern Task Submission
-
+## MIDAS_IIITD 2019 Summer Intern Task Submission
+# This account and repo created only for this task. Original profile :
+# github.com/parimatrix
 This task has two parts:
 ### Tweet Fetcher
 A python script to fetch tweets using tweepy and then save relevant information from the entire Tweet Object.
